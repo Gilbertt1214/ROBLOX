@@ -1,0 +1,17 @@
+# Rojo
+/node_modules/
+
+# Roblox
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
