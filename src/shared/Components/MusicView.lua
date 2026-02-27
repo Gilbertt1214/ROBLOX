@@ -93,6 +93,7 @@ local Playlist = {
            { id = "rbxassetid://86424835789311", title = "Sedia aku sebelum hujan", artist ="Idgitaf"},
             { id = "rbxassetid://73122152208489", title = "Missing You", artist ="Cover by Baila Fauri and Acel"},
             { id = "rbxassetid://122095487407036", title = "kota ini tak sama tanpamu", artist ="Nadhif Basalamah"},
+            { id = "rbxassetid://120218066951257", title = " Where Do Broken Hearts Go ", artist =" Soundrift "},
        
 }
 
